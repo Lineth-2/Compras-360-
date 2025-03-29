@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compras 360</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Compras 360</h1>
+        <p>Donde cada intercambio nace de la seguridad y el respaldo de nuestra comunidad.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#acerca">Acerca de Nosotros</a></li>
+            <li><a href="#mision">Misión y Visión</a></li>
+            <li><a href="#valores">Valores</a></li>
+            <li><a href="#faq">Preguntas Frecuentes</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <section id="acerca">
+        <h2>Acerca de Nosotros</h2>
+        <p>Compras 360 es una plataforma de comercio electrónico segura e inclusiva...</p>
+    </section>
+
+    <section id="mision">
+        <h2>Misión y Visión</h2>
+        <p><strong>Misión:</strong> Facilitar transacciones de compra y venta seguras...</p>
+        <p><strong>Visión:</strong> Liderar el mercado con innovación y seguridad...</p>
+    </section>
+
+    <section id="valores">
+        <h2>Valores</h2>
+        <ul>
+            <li><strong>Confianza:</strong> Garantizamos transacciones seguras...</li>
+            <li><strong>Innovación:</strong> Implementamos soluciones tecnológicas...</li>
+            <li><strong>Transparencia:</strong> Operamos con claridad en todas las transacciones...</li>
+        </ul>
+    </section>
+
+    <section id="faq">
+        <h2>Preguntas Frecuentes</h2>
+        <details>
+            <summary>¿Cómo se protege mi dinero?</summary>
+            <p>Usamos un sistema escrow donde el dinero se libera al confirmar la entrega...</p>
+        </details>
+        <details>
+            <summary>¿Cómo puedo vender en Compras 360?</summary>
+            <p>Regístrate, publica tu producto, espera la compra y recibe tu pago...</p>
+        </details>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Si necesitas ayuda, escríbenos a <a href="mailto:soporte@compras360.com">soporte@compras360.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Compras 360 - Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
